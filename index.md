@@ -1,0 +1,119 @@
+# Deadbolt Privacy Policy
+
+**Effective date:** August 25, 2026
+
+Deadbolt ("Deadbolt", "the app", "we", "us", or "our") is an Android application designed to provide a quick way to lock a device and require strong authentication instead of biometric authentication.
+
+Your privacy is important to us. Deadbolt is designed to operate locally on your Android device and does not require an account or transmit your personal information to us.
+
+## Information Deadbolt Collects
+
+Deadbolt does not collect, transmit, sell, or share personal information.
+
+Deadbolt does not require:
+
+- An account or registration
+- Your name, email address, or phone number
+- Location information
+- Contacts
+- Photos, videos, or other personal files
+- Microphone or camera access
+- Internet access for the app's core functionality
+
+Deadbolt does not contain advertising or third-party analytics.
+
+## Accessibility Service
+
+Deadbolt uses Android's Accessibility Service functionality to detect a user-configured hardware button sequence.
+
+Specifically, Deadbolt uses the Accessibility Service to detect Volume Down button presses when the Deadbolt feature is active.
+
+Deadbolt does not use the Accessibility Service to:
+
+- Read the contents of your screen
+- Read text from other applications
+- Monitor your web browsing
+- Record keystrokes
+- Collect passwords, PINs, or other authentication credentials
+- Interact with or control other applications
+- Transmit accessibility information from your device
+
+The Accessibility Service operates locally on your device.
+
+## Device Administrator
+
+Deadbolt uses Android's Device Administrator functionality to request permission to immediately lock the device.
+
+When the Deadbolt trigger is activated, Deadbolt requests that Android lock the device using the system's device-management APIs.
+
+Deadbolt does not use Device Administrator privileges to:
+
+- Erase or wipe your device
+- Change your device password
+- Monitor your device
+- Restrict applications
+- Collect personal information
+
+## Device Settings and Preferences
+
+Deadbolt stores a small amount of configuration information locally on your device, such as whether the Deadbolt feature is currently active.
+
+This information remains on your device and is not transmitted to us.
+
+## Data Sharing
+
+Deadbolt does not sell, rent, or share personal information with third parties.
+
+Because Deadbolt does not collect or transmit personal information, there is no personal information for us to provide to advertisers, data brokers, or other third parties.
+
+## Data Security
+
+Deadbolt is designed to perform its core functions locally on your device.
+
+The security of your device, including your PIN, password, pattern, biometric credentials, and Android security configuration, remains under the control of Android and the device manufacturer.
+
+Deadbolt does not have access to your PIN, password, biometric data, or biometric templates.
+
+## Children's Privacy
+
+Deadbolt does not knowingly collect personal information from children or adults. The application does not require the submission of personal information.
+
+## Changes to This Privacy Policy
+
+We may update this Privacy Policy from time to time to reflect changes to Deadbolt or applicable requirements.
+
+When changes are made, the updated policy will be published at this location and the effective date will be updated.
+
+## Disclaimer and Limitation of Liability
+
+Deadbolt is provided on an "AS IS" and "AS AVAILABLE" basis, without warranties of any kind, express or implied, to the fullest extent permitted by applicable law.
+
+Deadbolt is intended to provide a convenient method for requesting that an Android device immediately lock and require strong authentication. However, Deadbolt depends on Android, the device manufacturer, the device's operating system, system configuration, Accessibility Service functionality, Device Administrator functionality, and other components outside the developer's control.
+
+We do not warrant or guarantee that:
+
+- Deadbolt will operate correctly or without interruption;
+- Deadbolt will detect every configured button sequence;
+- Deadbolt will lock the device every time the trigger is activated;
+- Deadbolt will function on every Android device or Android version;
+- Deadbolt will continue to function after operating-system updates or changes to device settings;
+- Deadbolt will prevent biometric authentication in every circumstance; or
+- Deadbolt will provide any particular level of security or protection.
+
+**Deadbolt should not be relied upon as the sole means of securing a device or protecting sensitive information.** Users should maintain and use the security features provided by Android and their device manufacturer, including a secure PIN, password, or pattern.
+
+To the fullest extent permitted by applicable law, the developer and its owners, officers, employees, contributors, and affiliates shall not be liable for any indirect, incidental, consequential, special, exemplary, or punitive damages, or for any loss of data, privacy, security, property, or other loss arising from or related to the use of, inability to use, or failure of Deadbolt, including any situation in which Deadbolt fails to lock a device or fails to require strong authentication.
+
+To the fullest extent permitted by applicable law, the total liability of the developer arising out of or related to Deadbolt shall not exceed the amount actually paid by the user for Deadbolt during the twelve months preceding the event giving rise to the claim.
+
+Nothing in this disclaimer is intended to exclude or limit liability that cannot legally be excluded or limited under applicable law.
+
+## Contact
+
+If you have questions about this Privacy Policy or Deadbolt, please contact:
+
+**mfmappdev@gmail.com**
+
+---
+
+Copyright © 2026 Deadbolt
