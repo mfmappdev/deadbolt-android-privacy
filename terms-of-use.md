@@ -1,4 +1,4 @@
-<html># Deadbolt Terms of Use
+# Deadbolt Terms of Use
 
 **Effective date:** August 25, 2026
 
@@ -233,5 +233,3 @@ If you have questions about these Terms or Deadbolt, please contact:
 ---
 
 Copyright © 2026 vrktks.xyz
-
-</html>
