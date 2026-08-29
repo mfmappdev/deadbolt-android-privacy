@@ -225,11 +225,11 @@ These Terms, together with the Deadbolt Privacy Policy and any applicable open-s
 
 If you have questions about these Terms or Deadbolt, please contact:
 
-**vrktks.xyz**
+**daemonforkindustries.com**
 
-**Email:** mfmappdev@gmail.com
+**Email:** contact@daemonforkindustries.com
   
 
 ---
 
-Copyright © 2026 vrktks.xyz
+Copyright © 2026 daemonforkindustries.com
