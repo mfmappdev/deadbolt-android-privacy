@@ -112,7 +112,7 @@ Nothing in this disclaimer is intended to exclude or limit liability that cannot
 
 If you have questions about this Privacy Policy or Deadbolt, please contact:
 
-**mfmappdev@gmail.com**
+**contact@daemonforkindustries.com**
 
 ---
 
